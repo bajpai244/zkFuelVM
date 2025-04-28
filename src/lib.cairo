@@ -1,3 +1,7 @@
+mod memory;
+mod registers;
+mod interpreter;
+
 /// Checks if a number is prime
 ///
 /// # Arguments
